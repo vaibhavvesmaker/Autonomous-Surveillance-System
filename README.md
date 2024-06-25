@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for a README file for an autonomous system project. You can customize it further based on your specific project details and requirements.
-
----
 
 # Autonomous System Project
 
@@ -67,6 +64,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - YOLOv4 model implementation based on [Darknet](https://github.com/AlexeyAB/darknet).
 - SORT algorithm implementation based on [SORT repository](https://github.com/abewley/sort).
 
----
-
-Feel free to expand sections like "Features" and "Configuration" based on your project's specific functionalities and setup requirements. Adjust the links and references under "Acknowledgments" to credit any other libraries or resources you've used in your project.
